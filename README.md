@@ -50,15 +50,16 @@
 * Midterm
   * Mean: **74.209**
   * Variance: 632.817
-  * Median: **87.000**
+  * Median: **72.000**
   * Min/Max: (21.000, 117.000)
 * Final
   * Mean: **58.674**
   * Variance: 618.545
-  * Median: **73.000**
+  * Median: **66.000**
   * Min/Max: (0.000, 94.000)
 * Total
   * Mean: **58.952**
   * Variance: 423.546
-  * Median: **71.640**
+  * Median: **65.000**
   * Min/Max: (6.720, 87.760)
+PS J:\Microsoft VS Code\vscodeProjects\2021_OSS>
